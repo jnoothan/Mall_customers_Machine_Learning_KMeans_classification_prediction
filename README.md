@@ -38,7 +38,7 @@ To analyze customer data and segment them into distinct clusters using KMeans cl
 
 ## 🔧 Requirements
 
-- Python 3.x
+- Python 3.9
 - Libraries:
   - pandas
   - numpy
